@@ -7,7 +7,7 @@ print("Hello,", name)
 print("Next year you wil be", next_age)
 
 
-if age >= 13:
+if age < 13:
     print("You are a child.")
 elif age < 18:
     print("You are a teenager")
